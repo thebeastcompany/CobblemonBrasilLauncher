@@ -1,2 +1,34 @@
-# CobblemonLauncher
-Nosso launcher para Windows, Linux e MacOS
+<center><img src="https://downloads.cobblemonbrasil.com.br/icon2.png" width="500"></center>
+
+# Cobblemon Brasil Launcher
+Nosso launcher para Windows, Linux e MacOS.
+
+## Como baixar?
+Você pode baixar a versão mais recente clicando no link que corresponde a seu sistema operacional:
+- [Windows](https://google.com)
+- [Linux](https://google.com)
+- [MacOS](https://google.com)
+
+Se quiser baixar uma outra versão, [clique aqui](https://github.com/thebeastcompany/CobblemonBrasilLauncher/releases) para ir para a página de lançamentos.
+
+## Como instalar?
+A instalação é muito simples, a seguir veja como instalar o launcher em diferentes plataformas:
+
+**Windows:** baixe a última versão do executável *(.exe)* e execute, o launcher será instalado e iniciado.
+
+**Ubuntu:** em breve.
+
+**MacOS**: em breve.
+
+## Alguma dúvida?
+Entre na nossa cominudade do Discord [clicando aqui](https://discord.cobblemonbrasil.com.br) e sinta-se a vontade de tirar suas dúvidas com a nossa equipe.
+
+
+## Informações legais
+Este é um fork modificado do projeto **[Selvania-Launcher](https://github.com/luuxis/Selvania-Launcher)** protegido pela liçenca **[Creative Commons Attribution-NonCommercial 4.0 International](https://github.com/luuxis/Selvania-Launcher/blob/master/LICENSE.md)**.
+
+<br>
+
+**© Cobblemon Brasil**
+*Equipe de desenvolvimento Cobblemon Brasil.*
+**@LukasComK** e **@eupedroosouza**.
