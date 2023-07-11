@@ -1,7 +1,9 @@
-<center><img src="https://downloads.cobblemonbrasil.com.br/icon2.png" width="500"></center>
+<img src="https://downloads.cobblemonbrasil.com.br/icon2.png" width="500" align="center">
 
 # Cobblemon Brasil Launcher
 Nosso launcher para Windows, Linux e MacOS.
+
+<br>
 
 ## Como baixar?
 Você pode baixar a versão mais recente clicando no link que corresponde a seu sistema operacional:
@@ -34,4 +36,4 @@ Este é um fork modificado do projeto **[Selvania-Launcher](https://github.com/l
 
 <br>
 
-**© Cobblemon Brasil**<br>*Equipe de desenvolvimento Cobblemon Brasil.*<br>**@LukasComK** e **@eupedroosouza**.
+**© Cobblemon Brasil 2023**<br>*Equipe de desenvolvimento Cobblemon Brasil.*<br>**@LukasComK** e **@eupedroosouza**.
